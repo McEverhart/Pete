@@ -68,7 +68,8 @@ hr{
 p {
   line-height: 1.5;
   font-size: 18px;
-   text-align: left; 
+   text-align: left;
+	padding: 20px;
 }
 /*-- ---- list section---- -->*/
 
