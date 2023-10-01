@@ -60,12 +60,14 @@ h3 {
 article {
   text-align:center;
   padding: 60px 0;
+margin: auto;
    
 }
 
 article div {
   text-align:center;
   width: 100%;
+margin: auto;
 }
 hr{
   text-align:center;
@@ -90,6 +92,7 @@ Ul{text-align:left;
 div {
   margin: auto;
   width: 600px;
+margin: auto;
 }
 
 
@@ -119,6 +122,7 @@ footer {
 	text-align: center;
    padding: 40px;
   margin-top: 26px;
+margin: auto;
   }
 
 	
