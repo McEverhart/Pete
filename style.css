@@ -73,7 +73,7 @@ hr{
 p {
   line-height: 1.5;
   font-size: 18px;
-   text-align: left;
+text-align: left;
   margin: auto;
 
 }
@@ -88,6 +88,7 @@ Ul{text-align:left;
 div {
   margin: auto;
   width: 600px;
+margin: auto;
 }
 
 img {
