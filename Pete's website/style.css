@@ -110,7 +110,6 @@ hr {
   width: 100%;
   max-width: 200px;
   height: auto;
-	  img-align:center
 }
 .image-circle {
   border: 2px solid #003049;
@@ -120,7 +119,10 @@ hr {
 .image-circle {
     border-radius: 50%; 
 }
-
+.center-block {
+	margin: auto;
+	border: 0;
+}
 /* Add your solution below */
 
 
