@@ -99,9 +99,11 @@ p {
 
 Ul{text-align:left;
    margin: auto;
+   padding: 100px 0;
   }
   ol{text-align:left;
      margin: auto;
+     padding: 100px 0;
     }
 
 
