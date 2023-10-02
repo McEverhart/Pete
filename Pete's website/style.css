@@ -4,7 +4,7 @@
 body {
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
-  padding: 40px;
+  padding: 60px;
     text-align: center;
   margin: auto;
 }
@@ -26,7 +26,7 @@ header {
 
 .center {
 	margin: auto;
-border: 2in;
+border: 0;
 }
 
 nav {
@@ -83,8 +83,8 @@ p {
   font-size: 18px;
  text-align: left;
   margin: auto;
-margin-left: 20px;
-margin-bottom: 20px;
+margin-left: 40px;
+margin-bottom: 40px;
   
 }
 /*-- ---- list section---- -->*/
@@ -129,8 +129,8 @@ hr {
 
 
 footer {
-	text-align: center;
-   padding: 40px;
+text-align: center;
+   padding: 60px;
   margin-top: 26px;
   }
 
