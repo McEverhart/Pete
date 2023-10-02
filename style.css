@@ -4,7 +4,7 @@
 body {
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
-  padding: 60px;
+  padding: 40px;
     text-align: center;
   margin: auto;
 }
@@ -18,16 +18,17 @@ header {
  text-align: center;
   padding: 20px;
   margin: auto;
+  
 }
 
-	
+
  body {
   background-color:  #eae2b7;
 }
 
 .center {
 	margin: auto;
-border: 0;
+border: 2in;
 }
 
 nav {
@@ -56,8 +57,9 @@ h2 { font-family:"Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
 
 h3 {
   font-family: "Playfair Display", Times, serif;
-  font-size: 20px;
+  font-size: 22px;
   text-align: center;
+
   
 }
 
@@ -73,7 +75,7 @@ article div {
   text-align:center;
   width: 100%;
   margin: auto;
-  padding: 60px;
+  padding: 60px 0
 }
 hr{
   text-align:center;
@@ -84,10 +86,12 @@ p {
   font-size: 18px;
  text-align: match-parent;
   margin: auto;
-  padding: 80px 0;
-  margin-left: 40px;
-	margin-bottom: 20px;
+  padding: 60px 0;
   
+}
+}
+.center {
+	text-align: center;
 }
 /*-- ---- list section---- -->*/
 
@@ -114,6 +118,7 @@ hr {
   width: 100%;
   max-width: 200px;
   height: auto;
+   img-align:center
 }
 .image-circle {
   border: 2px solid #003049;
