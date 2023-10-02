@@ -81,11 +81,11 @@ hr{
 p {
   line-height: 1.5;
   font-size: 18px;
- text-align: left;
+ text-align: match-parent;
   margin: auto;
-padding: 60px;
-margin-left: 40px;
-margin-bottom: 20px;
+  padding: 80px 0;
+  margin-left: 40px;
+	margin-bottom: 20px;
   
 }
 /*-- ---- list section---- -->*/
