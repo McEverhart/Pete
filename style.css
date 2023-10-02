@@ -119,7 +119,10 @@ hr {
 .image-circle {
     border-radius: 50%; 
 }
-
+.center-block {
+	margin: auto;
+	border: 0;
+}
 /* Add your solution below */
 
 
