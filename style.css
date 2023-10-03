@@ -41,12 +41,14 @@ text-align:center;
 
 nav a:link{color:#d62828; 
 }
+
  nav a:hover {color:#f77f00;
  }
 
 
 
 /* Set the font family for any h1, h2, or h3 heading */
+
 h1 {
    font-family:"Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;    
@@ -97,7 +99,7 @@ p {
 
 /*-- ---- list section---- -->*/
 
-Ul{text-align:left;
+ul{text-align:left;
    margin: auto;
    padding: 100px 0;
   }
@@ -124,7 +126,7 @@ hr {
   width: 100%;
   max-width: 200px;
   height: auto;
-   img-align:center
+ img-align:center
 }
 
 .image-circle {
@@ -144,9 +146,9 @@ hr {
 /* Add your solution below */
 
 footer {
-	text-align: center;
-   padding: 40px;
-  margin-top: 26px;
+text-align: center;
+padding: 40px;
+margin-top: 22px;
   }
 	
 
