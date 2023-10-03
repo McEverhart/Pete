@@ -87,7 +87,7 @@ hr{
 
 p {
   line-height: 1.5;
-  font-size: 18px;
+  font-size: 20px;
  text-align: left;
   margin: auto;
   padding: 60px 0;
@@ -102,11 +102,13 @@ p {
 ul{text-align:left;
    margin: auto;
    padding: 100px 0;
+   font-size: 20px;
   }
 
   ol{text-align:left;
      margin: auto;
      padding: 100px 0;
+     font-size: 20px;
     }
 
 
