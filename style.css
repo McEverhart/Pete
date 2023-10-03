@@ -33,10 +33,17 @@ margin: auto;
 border: 2in;
 }
 
-
+.navbar{
+  width: 600%;
+}
 
 nav {
 text-align:center;
+word-spacing: 18px;
+line-height: 1.3em;
+float: center;
+padding: 12px;
+width: 100%;
 }
 
 nav a:link{color:#d62828; 
@@ -90,7 +97,7 @@ p {
   font-size: 20px;
  text-align: left;
   margin: auto;
-  padding: 60px 0;
+  padding: 12px 0;
 }
 
 .center {
